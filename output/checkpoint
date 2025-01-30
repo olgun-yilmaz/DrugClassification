@@ -1,0 +1,2 @@
+model_checkpoint_path: "pharmaceutical_drugs_and_vitamins_classification_model_checkpoint"
+all_model_checkpoint_paths: "pharmaceutical_drugs_and_vitamins_classification_model_checkpoint"
